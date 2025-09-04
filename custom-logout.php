@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name:       Custom Logout
+ * Plugin URI:        https://github.com/yehoon17/custom-logout
  * Description:       Provides a shortcode [custom_logout] to output a logout link or form with nonce and redirect support.
  * Version:           1.0.0
  * Author:            yehoon17
